@@ -1,0 +1,35 @@
+body {background-color: chocolate;
+    
+}
+h1{
+    background-color:none;
+}
+h1{
+    border: 0rem solid rgb(252, 248, 3); margin: 0rem; padding: 0.1rem 0.1rem; text-align: center; 
+    font-family: 'Goudy Stout',Algerian,Arial, sans-serif;
+    word-spacing: 5rem; letter-spacing: 1rem;
+}
+p{
+    text-align: center; font-style: italic; 
+}
+
+    
+
+a{
+    word-spacing: 15rem; font-family: sans-serif; text-decoration: none;  color: rgb(68, 0, 255);
+}
+nav{
+    text-align: center; word-spacing: 5rem;
+}
+a:hover{
+    color:red; background-color: rgb(63, 30, 210); text-transform: uppercase; font-weight: normal;
+}
+a:active{
+    background-color: chartreuse;
+}
+h2{
+    text-align: center;
+}
+div{
+    text-align: center; line-height: 2rem;
+}
